@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T19:59:54.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="rjbxl2Yqt1jwojSaPj91" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T20:01:09.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="XhlkVYG9lg8Vle--Of4h" version="14.2.4" type="github">
   <diagram id="sgSy6tTtdPwYPUss9doM" name="Page-1">
-    <mxGraphModel dx="474" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,11 @@
         <mxCell id="rDjEl36lT4-2UWScgR_d-30" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;GND&lt;br&gt;6 o 14&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="271" y="446" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rDjEl36lT4-2UWScgR_d-32" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;GND&lt;br&gt;6 o 14&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+        <mxCell id="rDjEl36lT4-2UWScgR_d-32" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#00ff00&quot; style=&quot;background-color: rgb(0 , 0 , 0)&quot;&gt;GPio 3&lt;br&gt;SCL&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="313" y="446" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rDjEl36lT4-2UWScgR_d-33" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ffff00&quot; style=&quot;background-color: rgb(0 , 0 , 0)&quot;&gt;GPIO 2&lt;br&gt;SDA&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="358" y="446" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
